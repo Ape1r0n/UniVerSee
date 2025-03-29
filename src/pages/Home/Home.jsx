@@ -8,6 +8,7 @@ import { CardLink } from "../../components/CardLink/CardLink.jsx";
 const Home = () =>{
   return (
     <div className="min-h-screen flex flex-col justify-center bg-white">
+      
       <div className="container mx-auto px-4 py-12">
         <header className="mb-12 text-center">
           <h1 className="mb-2 text-4xl font-bold tracking-tight text-gray-900 md:text-5xl">
