@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+.particle {
+    position: absolute;
+    border-radius: 50%;
+    pointer-events: none;
+    transition: transform 0.1s linear;
+    z-index: 1;
+}
+  
