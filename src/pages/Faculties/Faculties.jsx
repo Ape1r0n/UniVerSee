@@ -9,7 +9,7 @@ const Faculties = () => {
   ];
 
   return (
-    <div className="faculties-page">
+    <div className="faculties-page container mx-auto px-4 relative z-10">
       <h1>Faculties</h1>
       <nav>
         <Link to="/">Home</Link> | 

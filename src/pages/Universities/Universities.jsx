@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 
 const Universities = () => {
-  // Example university data - replace with your actual data
   const universities = [
     { id: 1, name: 'Harvard University', location: 'Cambridge, MA' },
     { id: 2, name: 'Stanford University', location: 'Stanford, CA' },
@@ -9,7 +8,7 @@ const Universities = () => {
   ];
 
   return (
-    <div className="universities-page">
+    <div className="universities-page container mx-auto px-4 relative z-10">
       <h1>Universities</h1>
       <nav>
         <Link to="/">Home</Link> | 
