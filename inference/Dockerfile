@@ -10,6 +10,6 @@ RUN pip install --no-cache-dir -r requirements.txt && \
     mkdir -p predictions
 
 VOLUME /app/predictions
-EXPOSE 8197
+EXPOSE 8080
 
 CMD ["python", "inference/run_inference.py"]
