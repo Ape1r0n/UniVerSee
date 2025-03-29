@@ -1,0 +1,1060 @@
+{
+  "id": "01e14075-45ee-433f-b75c-279f3973d357",
+  "name": "ქუთაისის საერთაშორისო უნივერსიტეტი",
+  "description": "",
+  "location": "ქუთაისი, საქართველო",
+  "phoneNumber": "(+995) 577 477197",
+  "faculties": [
+    {
+      "id": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+      "universityId": "01e14075-45ee-433f-b75c-279f3973d357",
+      "name": "მათემატიკა",
+      "description": "",
+      "feePerYear": 2250,
+      "programGoals": [
+        "მათემატიკის ძირითადი სფეროების კონცეპტუალური და ოპერაციული გაგების ათვისება.",
+        "პრობლემების გადაჭრის უნარ-ჩვევების განვითარება, მათ შორის გამოთვლითი და მოდელირების შესაძლებლობები.",
+        "ეფექტური კომუნიკაციის, კრიტიკული აზროვნების და მთელი ცხოვრების მანძილზე სწავლის უნარების გაუმჯობესება."
+      ],
+      "careerOpportunities": [
+        "მონაცემთა ანალიტიკოსი",
+        "აქტუარი",
+        "მეცნიერ-მკვლევარი"
+      ],
+      "courses": [
+        {
+          "id": "a25c1fc3-80a9-48f1-b2b4-1693ca685c46",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "არჩევითი 3",
+          "description": "სტუდენტის ინტერესზე მორგებული კურსი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "da7fc56c-6a57-44d9-9aa7-2201fbf758f0",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ალგორითმების და სტრუქტურების საფუძვლები",
+          "description": "მონაცემთა სტრუქტურები და ეფექტური ალგორითმები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "2e412624-4482-45eb-ae00-32d7ef55c0cd",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "კომპიუტაციის თეორიის შესავალი",
+          "description": "ფორმალური ენები, ავტომატები და გამოთვლის საზღვრები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "dfd79730-35f0-4990-a43d-44a8c59f3c6a",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "არჩევითი 4",
+          "description": "კომპეტენციის განმტკიცება სპეციალიზებულ სფეროში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "ee258331-49da-4d0c-b373-51c76b26dcfe",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ალბათობის თეორია",
+          "description": "სავარაუდო მოდელირება და შემთხვევითი პროცესები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "4df8585d-d2f3-48a0-93c7-584eedb7f86b",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "პროგრამირების საფუძვლები (ლაბორატორია)",
+          "description": "პროგრამირების პრაქტიკული საფუძვლების დაუფლება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "825ddfbe-85de-4435-b053-63fe20df153b",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ხაზობრივი ალგება ინფორმატიკისთვის",
+          "description": "მათემატიკური მოდელების წარმოდგენა ვექტორებითა და მატრიცებით.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "983be5c6-5895-4452-ac52-6a6e5bbfaaae",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ინფორმატიკის ანალიზი",
+          "description": "მათემატიკური ანალიზი ინფორმატიკის კონტექსტში.",
+          "syllabus": "test",
+          "credits": 9,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "d81a8834-c7ab-47c9-8a06-6e4f12d0a42a",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "პროგრამული უზრუნველყოფის ინჟინერია",
+          "description": "პროგრამული სისტემების დაგეგმვა და დეველოპმენტი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "5ff352d6-1a0c-43ce-a805-795d8b5e38ef",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "მონაცემთა ბაზები 1",
+          "description": "საფუძვლები მონაცემთა ბაზების მოდელირებასა და SQL-ზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "d2c42899-611f-475c-91f2-88315357a152",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ლაბორატორია: კომპიუტერის ორგანიზაცია",
+          "description": "პრაქტიკული ლაბორატორია კომპიუტერის არქიტექტურაზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "bdcad77a-e2f4-4031-a4b7-8dc86b083dc6",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "პროექტზე დაფუძნებული პრაქტიკული კურსი",
+          "description": "გუნდური პროექტი პროგრამული სისტემის შექმნაზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "d5005837-8978-4e92-9301-92a0c6e314cd",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "არჩევითი 6",
+          "description": "კურსი ინდივიდუალური მიმართულებით.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "691ad320-22d1-4d84-886e-93f7d7488be1",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "სკრიპტირების ენები",
+          "description": "პროგრამირების სკრიპტული ენების გამოყენება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "2a82be41-5364-4737-8790-999eb50527fd",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ინგლისური ენა 1",
+          "description": "აკადემიური ინგლისურის საფუძვლები.",
+          "syllabus": "test",
+          "credits": 3,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "bdc1fce3-80ef-40d5-a70e-a2a3dc442529",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ინფორმატიკის შესავალი 2",
+          "description": "გაგრძელება ინფორმატიკის ძირითად საკითხებზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "ab2b6b69-6815-4126-9310-a9440fdf9fd6",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ოპერაციული სისტემების საფუძვლები",
+          "description": "ოპერაციული სისტემების სტრუქტურა და ძირითადი მექანიზმები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "3bc2d5e7-ac10-4fae-875b-ab3f1da6da35",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ქსელების და განაწილებული სისტემების შესავალი",
+          "description": "ქსელური არქიტექტურები და ქსელური კომუნიკაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "8945c936-1b09-4771-8508-c06b1d127604",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "საბაკალავრო ნაშრომი / Capstone პროექტი",
+          "description": "დამოუკიდებელი კვლევა ან პრაქტიკული პროექტი.",
+          "syllabus": "test",
+          "credits": 18,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "92c0fdae-55cd-4ed5-9166-c1040d94e876",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ინფორმატიკის შესავალი 1",
+          "description": "კურსი მოიცავს კომპიუტერული მეცნიერებების საწყის ცნებებს და ლოგიკურ აზროვნებას.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "0c489bf9-e0dd-4313-bb24-db9446f21aa3",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "არჩევითი 1",
+          "description": "სტუდენტის მიერ შერჩეული სპეციალიზებული კურსი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "31df8ba2-1aaf-46f2-9121-e32fc84ba18e",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "ინგლისური ენა 2",
+          "description": "ინგლისურის წერა და საუბარი აკადემიურ დონეზე.",
+          "syllabus": "test",
+          "credits": 3,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "e3a1bc1a-f352-40f6-b291-e91f8bcbe453",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "არჩევითი 7",
+          "description": "დამატებითი კვალიფიკაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "a4cc9b66-4058-4573-a9c4-ec3b9fc5ae6c",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "კომპიუტერული არქიტექტურის შესავალი",
+          "description": "კომპიუტერის მუშაობის პრინციპები და არქიტექტურა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "cd4a70d3-cc14-48af-8ccc-ecf835d4f724",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "რიცხვითი პროგრამირება",
+          "description": "მათემატიკური ამოცანების პროგრამული გადაწყვეტა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "27554b8c-fe9e-40bb-88ae-fb300a325143",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "დისკრეტული სტრუქტურები",
+          "description": "ლოგიკური სტრუქტურები, სიმრავლეები, გრაფები და მათემატიკური ანალიზი.",
+          "syllabus": "test",
+          "credits": 9,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "049f5dbf-b32a-4fb0-8be7-fbc23e4268f3",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "სტაჟირება",
+          "description": "პრაქტიკული გამოცდილება ინდუსტრიულ გარემოში.",
+          "syllabus": "test",
+          "credits": 12,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "d7c76c87-d4ba-4ef5-b1b1-fcad42fbf4ba",
+          "facultyId": "750163b9-d05f-4728-b738-0eeecaf5e47b",
+          "name": "მონაცემთა ბაზები 2",
+          "description": "მონაცემთა ბაზების გაფართოებული კონცეფციები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        }
+      ]
+    },
+    {
+      "id": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+      "universityId": "01e14075-45ee-433f-b75c-279f3973d357",
+      "name": "კომპიუტერული მეცნიერება",
+      "description": "",
+      "feePerYear": 2250,
+      "programGoals": [
+        "მათემატიკური საფუძვლების, ალგორითმების პრინციპების და კომპიუტერული მეცნიერების თეორიის გამოყენება კომპიუტერული სისტემების დიზაინში.",
+        "კომპიუტერული მეცნიერების ფუნდამენტური თეორიების, კონცეფციების და აპლიკაციების ფართო გაგება ეთიკურ პრინციპებთან ერთად პროფესიულ კარიერაში.",
+        "კომუნიკაციის, გუნდური მუშაობის და ლიდერობის უნარების ეფექტური გამოყენება რთული პროგრამული სისტემების განვითარებაში.",
+        "უწყვეტი პროფესიული განვითარება."
+      ],
+      "careerOpportunities": [
+        "პროგრამისტი",
+        "სისტემების ანალიტიკოსი",
+        "IT კონსულტანტი"
+      ],
+      "courses": [
+        {
+          "id": "64f28a41-6faf-4822-9327-03e417037a9e",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "დისკრეტული სტრუქტურები",
+          "description": "ლოგიკური სტრუქტურები, სიმრავლეები, გრაფები და მათემატიკური ანალიზი.",
+          "syllabus": "test",
+          "credits": 9,
+          "semester": 1,
+          "reviews": [
+            {
+              "id": "112ed1e4-14b2-44e9-adb7-ae9d3a0fedfb",
+              "courseId": "64f28a41-6faf-4822-9327-03e417037a9e",
+              "reviewerName": "Anonymous",
+              "rating": 7,
+              "comment": "არ ვიცი რატომ არ მომაფიქრდა, მაგრამ შემეძლო სილაბუსში თანდართული წიგნი წამეკითხა, უფრო გასაგებად წერია, ვიდრე მარკუსის სლაიდებზე. მარკუსის ლექციებზე მესმოდა და არ დამჭირვებია, მაგრამ სლაიდების კითხვაზე უფრო ჭკვიანურია წიგნი იკითხო. ზოგი კვირა საგრძნობლად უფრო მარტივია, ვიდრე დანარჩენები. ბოლო 4 კვირაში გავდივართ ჯგუფთა თეორიას, რომელიც სკოლის მათემატიკის მერე ძალიან უცნაურია და აბსტრაქტულიც(ჯგუფთა თეორია აბსტრაქტულ ალგებრას მიეკუთვნება კიდეც), მაგრამ მაგის შემდეგ მათემატიკას სხვანაირად ვუყურებ, უფრო ლამაზია. ჩემი რჩევა: რავი, ეს პარაგრაფი ძირითადად რჩევები იყო. წიგნი იკითხეთ და ქვემოთ რესურსებიც ნახეთ. Ჯგუფთა თეორიისთვის იუთუბზე Socratica-ს Abstract Algebra-ს ფლეილისთი ნახეთ. გრაფთა თეორიისთვის Wrath of Math-ის Graph Theory. "
+            }
+          ]
+        },
+        {
+          "id": "64e83771-5f43-4c88-b033-09598da95ca3",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ხაზობრივი ალგება ინფორმატიკისთვის",
+          "description": "მათემატიკური მოდელების წარმოდგენა ვექტორებითა და მატრიცებით.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "eb35e6b4-8e8d-4321-8c6c-194c39f5d2d3",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "კომპიუტერული არქიტექტურის შესავალი",
+          "description": "კომპიუტერის მუშაობის პრინციპები და არქიტექტურა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": [
+            {
+              "id": "1446bd6f-fbc4-444e-806f-e128c7a89766",
+              "courseId": "eb35e6b4-8e8d-4321-8c6c-194c39f5d2d3",
+              "reviewerName": "Anonymous",
+              "rating": 9,
+              "comment": "ამ საგანს და მეორე სემესტრში ოპერაციულ სისტემებს გავდივართ ვოლფგანგის წიგნით: System Architecture. ეს საგანი ბევრად უფრო რთულია, თუ დავალებებს არ იწერ, იმიტომ რომ, სულაც რომ ია გასწავლიდეთ საგანს(რომელიც უფრო ჯიგარი გამსწორებელია),  დავალებები ვოლფგანგის წიგნიდან მოდის და მაგას ცოტა კითხულობს, უფრო ცოტა წერს. თუ იწერ, ინგლისურის მერე ყველაზე მარტივი საგანია. ჩემი რჩევაა ვოლფგანგის წიგნი იკითხოთ. ამ საგნის მასალები ინტერნეტშიც ბლომადაა, მაგრამ ოპერაციულ სისტემებზე უეჭველი დაგჭირდებათ ვოლფგანგის სლაიდების და წიგნის გაგება და თუ აქვე მიეჩვევით მისი წიგნის კითხვას, ძალიან დაგეხმარებათ.\r\nჩასწორება 2024: ამ საგანს ია აღარ ასწავლის, ვოლფგანგი დაბრუნდა და უფრო რთული იქნება, ვიდრე წინა სამი წელი იყო.\r\n"
+            }
+          ]
+        },
+        {
+          "id": "5fc6e8f9-f6ec-417e-ab59-1c95103de899",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "მონაცემთა ბაზები 1",
+          "description": "საფუძვლები მონაცემთა ბაზების მოდელირებასა და SQL-ზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "d974713b-ec0c-4a34-923f-1d7ae6e80b63",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "არჩევითი 4",
+          "description": "კომპეტენციის განმტკიცება სპეციალიზებულ სფეროში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "4e44809d-fdea-4296-a32d-27fd783cfaee",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "მონაცემთა ბაზები 2",
+          "description": "მონაცემთა ბაზების გაფართოებული კონცეფციები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "febc550f-8ea6-48c1-a2fc-326c4ee2da37",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ალგორითმების და სტრუქტურების საფუძვლები",
+          "description": "მონაცემთა სტრუქტურები და ეფექტური ალგორითმები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "55a85098-cde7-478d-9804-37ce668997fe",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ინფორმატიკის ანალიზი",
+          "description": "მათემატიკური ანალიზი ინფორმატიკის კონტექსტში.",
+          "syllabus": "test",
+          "credits": 9,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "d271d442-6590-4770-ad48-3842c8e1c47c",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ლაბორატორია: კომპიუტერის ორგანიზაცია",
+          "description": "პრაქტიკული ლაბორატორია კომპიუტერის არქიტექტურაზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "e1642680-a54b-4404-9f16-3c602f62890f",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "არჩევითი 1",
+          "description": "სტუდენტის მიერ შერჩეული სპეციალიზებული კურსი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "8a3c9fdf-b1d3-4681-91ef-3ece9a043f55",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ალბათობის თეორია",
+          "description": "სავარაუდო მოდელირება და შემთხვევითი პროცესები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "01de1454-951b-4cdb-9cbd-48d77dc409a9",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "პროგრამირების საფუძვლები (ლაბორატორია)",
+          "description": "პროგრამირების პრაქტიკული საფუძვლების დაუფლება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": [
+            {
+              "id": "df1f94e3-d1f4-477d-981c-f87462785275",
+              "courseId": "01de1454-951b-4cdb-9cbd-48d77dc409a9",
+              "reviewerName": "Anonymous",
+              "rating": 10,
+              "comment": "ბევრისთვის ყველაზე რთული საგანი, განსაკუთრებით თუ შეხება არ გგონია პროგრამირებასთან. აქ როგორი ამოცანებიც მოდის, ეგეთი არც Codeforces-ზეა, არც ლითკოდზე და არც სხვაგან. უფრო ჯავას ცოდნაზეა, ვიდრე ლოგიკის მოფიქრებაზე. ჩემი რჩევა: თავისუფალ დროს იმაზე ივარჯიშეთ, რაც ვერ გაიგეთ. ლითკოდზეც აკეთებთ ამოცანები ხეებზე, ჩვენთან ძალიან უყვართ ხეები."
+            }
+          ]
+        },
+        {
+          "id": "8a051817-03dc-49cf-b67c-4db18a9effb0",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "პროგრამული უზრუნველყოფის ინჟინერია",
+          "description": "პროგრამული სისტემების დაგეგმვა და დეველოპმენტი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "a08d0399-bcdc-46ea-80f8-58602cb6ad49",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ინგლისური ენა 1",
+          "description": "აკადემიური ინგლისურის საფუძვლები.",
+          "syllabus": "test",
+          "credits": 3,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "0e1d5238-f8f3-4b0d-8192-6bf62fb31678",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ქსელების და განაწილებული სისტემების შესავალი",
+          "description": "ქსელური არქიტექტურები და ქსელური კომუნიკაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "cef09243-38cf-415d-8707-742746bf1bb0",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "სტაჟირება",
+          "description": "პრაქტიკული გამოცდილება ინდუსტრიულ გარემოში.",
+          "syllabus": "test",
+          "credits": 12,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "fefefafd-fa1c-42ce-b3d5-7742a1ac083a",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ინგლისური ენა 2",
+          "description": "ინგლისურის წერა და საუბარი აკადემიურ დონეზე.",
+          "syllabus": "test",
+          "credits": 3,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "2d1fe05d-63cc-421b-bda5-7b4da376397e",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ინფორმატიკის შესავალი 1",
+          "description": "კურსი მოიცავს კომპიუტერული მეცნიერებების საწყის ცნებებს და ლოგიკურ აზროვნებას.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": [
+            {
+              "id": "e66a3883-d5c8-4986-bf3d-89bdfe4bd4db",
+              "courseId": "2d1fe05d-63cc-421b-bda5-7b4da376397e",
+              "reviewerName": "Anonymous",
+              "rating": 8,
+              "comment": "ჩვენ პროფესორი ჰელმუტი გვასწავლიდა. ონლაინ იყო და ცოტა უსმენდა. მე პირადად თავიდან ვუსმენდი, მალევე მივხვდი, რომ FoP-ზე რასაც ვაკეთებდით, მაგის თეორია იყო და ონლაინ შესვლა დამეზარა. მანდ შევცდი. ვერც გავიგე, ისე გადაუხვია. ნუ გადახვევაში ვგულისხმობ უფრო თეორიულად ჩასვლას, ფოპზე უფრო პრაქტიკულ ასპექტებზე ვამახვილებდით ყურადღებას. ჩემი რჩევაა:\r\nაუცილებლად უსმინეთ ყველა ლექციას და სლაიდები გაარჩიეთ ლექციამდე, კითხვები რომ გექნებათ დროულად დაუსვათ. ჰელმუტი მსოფლიოში ერთ-ერთი საუკეთესოა და კომპეტენტურობაში ეჭვი არ შეგეპაროთ.\r\n"
+            }
+          ]
+        },
+        {
+          "id": "5a5d5dbe-f9fc-404f-b6e4-8ad6ee4b317b",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "არჩევითი 6",
+          "description": "კურსი ინდივიდუალური მიმართულებით.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "1bdb2830-c0c0-4631-9d74-a925af27843a",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "კომპიუტაციის თეორიის შესავალი",
+          "description": "ფორმალური ენები, ავტომატები და გამოთვლის საზღვრები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "a0937c14-d12f-44ef-90a4-b4cea81b1c1f",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "საბაკალავრო ნაშრომი / Capstone პროექტი",
+          "description": "დამოუკიდებელი კვლევა ან პრაქტიკული პროექტი.",
+          "syllabus": "test",
+          "credits": 18,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "99408e06-e52c-4b6f-ab4e-b5dae1601ab6",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "არჩევითი 7",
+          "description": "დამატებითი კვალიფიკაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "f631af6c-42a0-45d4-8b3d-cd6d4d16d5f8",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "სკრიპტირების ენები",
+          "description": "პროგრამირების სკრიპტული ენების გამოყენება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "2d3ba64d-6c82-4145-9961-d48456501aee",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ინფორმატიკის შესავალი 2",
+          "description": "გაგრძელება ინფორმატიკის ძირითად საკითხებზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "8a005a33-4972-4d3d-aa54-dd0efcefe6a8",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "ოპერაციული სისტემების საფუძვლები",
+          "description": "ოპერაციული სისტემების სტრუქტურა და ძირითადი მექანიზმები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "dd5a6c44-ca7c-4801-8504-e4c02110f8ab",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "პროექტზე დაფუძნებული პრაქტიკული კურსი",
+          "description": "გუნდური პროექტი პროგრამული სისტემის შექმნაზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "5cc4970d-5ee3-45d0-b7e7-e5f44bcf67d0",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "რიცხვითი პროგრამირება",
+          "description": "მათემატიკური ამოცანების პროგრამული გადაწყვეტა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "035f19a2-8228-492e-841b-e7b16bf244d0",
+          "facultyId": "cf1a9248-d776-435d-87c7-945a3ce0e7d5",
+          "name": "არჩევითი 3",
+          "description": "სტუდენტის ინტერესზე მორგებული კურსი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        }
+      ]
+    },
+    {
+      "id": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+      "universityId": "01e14075-45ee-433f-b75c-279f3973d357",
+      "name": "მენეჯმენტი",
+      "description": "",
+      "feePerYear": 2250,
+      "programGoals": [
+        "მენეჯმენტის სხვადასხვა ფუნქციურ სფეროში თეორიული ცოდნის და პრაქტიკული უნარ-ჩვევების გადაცემა.",
+        "საწარმოო, მენეჯერული და ლიდერობის უნარ-ჩვევების განვითარება დინამიურ გლობალურ გარემოში ეფექტურად მუშაობისთვის.",
+        "სტუდენტების ჩამოყალიბება, როგორც კონკურენტუნარიანი, მაღალკვალიფიციური, სოციალურად და ეთიკურად პასუხისმგებელი პიროვნებები."
+      ],
+      "careerOpportunities": [
+        "ოპერაციების მენეჯერი",
+        "მარკეტინგის სტრატეგი",
+        "ფინანსური ანალიტიკოსი"
+      ],
+      "courses": [
+        {
+          "id": "32311738-d016-4fd7-8c13-0249c8db8fed",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "არჩევითი 1",
+          "description": "სტუდენტის მიერ შერჩეული არჩევითი საგანი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "5e683354-3be0-4d19-8613-028496309ebf",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 2",
+          "description": "დამატებითი სპეციალიზაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "149787cb-d311-46bd-8da4-04abd7d680d0",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 6",
+          "description": "დამატებითი მიმართულების შემეცნება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "6717d740-a171-46ee-8b2f-0745fc6d8cf2",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "კონცენტრაციის საგანი 1",
+          "description": "სპეციალიზაცია არჩეულ სფეროში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "665f8ac4-8b58-4d45-95b9-07c8226c5d5a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "არჩევითი 2",
+          "description": "დამატებითი არჩევითი საგანი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "1c808149-8a8f-4717-a809-09eb740939d0",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მეწარმეობრივი ბიზნესის საფუძვლები",
+          "description": "ბიზნესის შექმნისა და მართვის ძირითადი პრინციპები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "e5b91d8e-29d3-4a52-945b-0bca9d17bbf5",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "კონცენტრაციის საგანი 2",
+          "description": "სპეციალიზაციის გაღრმავება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "8dd06dad-727c-4445-8b46-0c952238f849",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ფინანსური აღრიცხვა",
+          "description": "ბუღალტრული აღრიცხვის პრინციპები და ფინანსური ანგარიშგება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "1ef72e3b-8187-4687-8b27-10498e21eab1",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "პროგრამირება და მონაცემთა ანალიზი",
+          "description": "პროგრამირების საფუძვლები ბიზნესისთვის საჭირო მონაცემთა დამუშავებით.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "8d07f9c2-6e51-45dc-85c6-16461aa8e644",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ორგანიზაციული ქცევა",
+          "description": "ორგანიზაციის შიდა დინამიკის შესწავლა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "50662b3b-3cea-4650-b1cb-1dc820ca5e90",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მენეჯმენტის მეცნიერება",
+          "description": "ორგანიზაციული პროცესების ანალიზი და გადაწყვეტილებების მიღება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "d6818658-dc67-46b5-ae4b-2b6072a333c8",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "აკადემიური წერა და კომუნიკაციის უნარები",
+          "description": "წერის სტილები და პრეზენტაციის ტექნიკა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "f54e2bb0-6c4e-455d-a737-2ddf1b3109a5",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 7",
+          "description": "დამატებითი ინტერესების ინტეგრაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "1c5837f1-1fb2-4667-873a-3843d830dfce",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "კვლევითი მეთოდები",
+          "description": "მეცნიერული კვლევის მეთოდოლოგია.",
+          "syllabus": "test",
+          "credits": 3,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "3443a230-c1f1-4c7d-a9ce-3f85ea3e4146",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "წარმომადენი ღირებულების აღრიცხვა",
+          "description": "ხარჯების კლასიფიკაცია და კონტროლი ორგანიზაციაში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "f77d9c6c-9eea-426b-9d53-4d1f7ba51cf0",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ბიზნეს ეთიკა",
+          "description": "ეთიკური ფასეულობების გამოყენება მენეჯმენტში.",
+          "syllabus": "test",
+          "credits": 3,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "5ea4895f-f163-4394-af29-62b507ff5494",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ბიზნეს სამართალი",
+          "description": "სამართლებრივი საფუძვლები ბიზნესში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "2a1d1cfb-2256-4b72-9ac6-75396954ad37",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "სტრატეგიული მენეჯმენტის შესავალი",
+          "description": "ორგანიზაციის გრძელვადიანი მიზნების დაგეგმვა და მართვა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "b547e40f-0692-418d-86c7-8afb5bd3d63a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მიკროეკონომიკის პრინციპები",
+          "description": "ეკონომიკის მიკრო დონეზე ანალიზი და ბაზრის ქცევა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "131d37e6-e594-45d6-bbb0-8ef93f2e3dbe",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მარკეტინგის საფუძვლები",
+          "description": "ბაზრის ანალიზი და მომხმარებელთა ქცევის შესწავლა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "7f1b8fcf-bfad-4984-a46a-9438087718ad",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 1",
+          "description": "დამატებითი მიმართულების სასწავლო კურსი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 5,
+          "reviews": []
+        },
+        {
+          "id": "5ba48b29-e21b-4348-a4b5-95d9cc92f01b",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ინგლისური ენა 2",
+          "description": "ინგლისური კომუნიკაცია და წერა ბიზნესგარემოში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "161af11a-3fb2-44ac-938f-9790377f8f13",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ადამიანური რესურსების მენეჯმენტი",
+          "description": "გუნდის მართვა, ლიდერობა და მოტივაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "292e9e5f-065d-4173-8eb7-9be26786919a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ბიზნეს სტატისტიკა",
+          "description": "სტატისტიკური მოდელების გამოყენება ეკონომიკაში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "a212cd03-b081-42f2-a9ec-9eca7bebc917",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 3",
+          "description": "დამატებითი კომპეტენციის განვითარება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "e4042c58-3653-4fca-8225-a7b4270f8910",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ოპერაციების მართვის პრინციპები",
+          "description": "ოპერაციული პროცესების დაგეგმვა და ოპტიმიზაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 4,
+          "reviews": []
+        },
+        {
+          "id": "ff7fb0a2-fb0f-4556-890e-acc176756c80",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ინგლისური ენა 1",
+          "description": "აკადემიური ინგლისურის საფუძვლები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "049ecf4c-9e13-4de7-ab2f-b1754c4390d0",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "კონცენტრაციის საგანი 3",
+          "description": "დამოუკიდებელი მიმართულება და სპეციალიზაცია.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "e9c665ee-d780-4823-891f-b30ac52a3e3a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ბიზნეს ინგლისური",
+          "description": "ინგლისური კომუნიკაცია ბიზნესის სფეროში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 3,
+          "reviews": []
+        },
+        {
+          "id": "3d733b11-c8b1-41d9-9b45-bef6e480e75a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ბიზნეს კალკულუსი 1",
+          "description": "მათემატიკური ანალიზი ბიზნესის ამოცანებზე.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 1,
+          "reviews": []
+        },
+        {
+          "id": "c28c8c3c-7cf7-4bf2-ab43-bfd3b6aa579a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ბიზნეს კალკულუსი 2",
+          "description": "მათემატიკის გამოყენება ფინანსებსა და ეკონომიკაში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "9a970ef4-0da3-4590-b9eb-d75ac359f31f",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 5",
+          "description": "პერსონალური ინტერესების გაღრმავება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "291c6876-84f2-4280-9bd0-daa473d44369",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "სტაჟირება",
+          "description": "პრაქტიკული მუშაობა რეალურ ბიზნეს გარემოში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "29f6b4a7-3f2c-4c95-a50e-de5cc31901a1",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "საბაკალავრო ნაშრომი",
+          "description": "თეორიული ან პრაქტიკული კვლევა ბიზნესის მიმართულებით.",
+          "syllabus": "test",
+          "credits": 12,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "e6175a9a-3d19-44e1-87fc-e1474072e452",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "პროექტების მენეჯმენტის პრინციპები",
+          "description": "პროექტის დაგეგმვის, მართვისა და მონიტორინგის საფუძვლები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "f76b8772-5206-4a85-9347-e17e3e808738",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "სტატისტიკა ბიზნესისთვის",
+          "description": "მონაცემთა ანალიზი და ინტერპრეტაცია ეკონომიკურ კონტექსტში.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        },
+        {
+          "id": "65ffbf67-f928-41d9-abee-f64a2f6e5b8f",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "ინვესტიციები და ფინანსური მენეჯმენტი",
+          "description": "კაპიტალის მართვა და ფინანსური ანალიზი.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 6,
+          "reviews": []
+        },
+        {
+          "id": "ace9c838-8b6f-494f-90cd-f692063def6a",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "არჩევითი 3",
+          "description": "დამატებითი პროფესიული კომპეტენციის გაღრმავება.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 8,
+          "reviews": []
+        },
+        {
+          "id": "a095ffbc-5218-41c7-b8a8-f81c6df48c3d",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაინორი საგანი 4",
+          "description": "დამატებითი მულტიდისციპლინარული ცოდნა.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 7,
+          "reviews": []
+        },
+        {
+          "id": "701bb691-df53-4f95-a4e7-fd44f9b717c0",
+          "facultyId": "7e91cb7f-bc89-4297-8ebb-9b7979f0501a",
+          "name": "მაკროეკონომიკის პრინციპები",
+          "description": "ეკონომიკის მაკრო დონეზე ანალიზი და პოლიტიკები.",
+          "syllabus": "test",
+          "credits": 6,
+          "semester": 2,
+          "reviews": []
+        }
+      ]
+    }
+  ],
+  "reviews": null
+}
