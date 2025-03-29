@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { FacultyCard } from '../../components/FacultyCard/FacultyCard'
 
 const Universities = () => {
   const universities = [
@@ -8,36 +9,12 @@ const Universities = () => {
   ];
 
   return (
-    <div className="universities-page container mx-auto px-4 relative z-10">
-      <h1>Universities</h1>
-      <nav>
-        <Link to="/">Home</Link> | 
-        <Link to="/faculties">Faculties</Link>
-      </nav>
-      
-      <div className="universities-list">
-        <h2>List of Universities</h2>
-        <table>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Location</th>
-              <th>Actions</th>
-            </tr>
-          </thead>
-          <tbody>
-            {universities.map(university => (
-              <tr key={university.id}>
-                <td>{university.name}</td>
-                <td>{university.location}</td>
-                <td>
-                  <Link to={`/universities/${university.id}`}>View</Link>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+    <div className="text-white flex gap-3 justify-around flex-wrap universities-page container mx-auto px-4 relative z-10">
+      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
     </div>
   );
 };
