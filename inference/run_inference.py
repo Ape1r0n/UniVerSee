@@ -69,7 +69,7 @@ def save_to_excel(data):
 def handle_prediction():
     try:
         input_data = request.json
-        required_fields = ['faculty', 'gender', 'hobbies', 'which_trovert', 'wl_balance', 'dedication']
+        required_fields = ['gender', 'hobbies', 'which_trovert', 'wl_balance', 'dedication']
         if not all(field in input_data for field in required_fields):
             return jsonify({"error": "Missing required fields"}), 400
 
