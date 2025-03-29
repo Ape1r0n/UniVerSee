@@ -10,6 +10,7 @@
 1. ```pip3 install -r requirements.txt```
 2. ```python3 data_loader.py```
 3. ```python3 train/train.py```
+4. ```python3 inference/run_inference.py```
 
 ## **Docker**
 
@@ -17,3 +18,5 @@
 
 1. ```docker build -f train/Dockerfile -t universee_train .```
 2. ```docker run -v $(pwd)/data:/app/data -v $(pwd)/models:/app/models universee_train```
+3. ```docker build -t universee_inference -f inference/Dockerfile .```
+4. ```docker run -p 8197:8197 -v ./predictions:/app/predictions universee_inference```
