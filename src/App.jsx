@@ -9,6 +9,8 @@ import Navbar from './components/Navbar/Navbar';
 import UniversityDetails from './pages/UniversityDetails/UniversityDetails';
 import FateForm from './pages/Fate/FateForm';
 import FateResult from './pages/Fate/FateResult';
+import ChatWidget from './components/ChatWidget/ChatWidget';
+
 
 function App() {
   const containerRef = useRef(null);
@@ -140,7 +142,7 @@ function App() {
   return (
         <div 
           ref={containerRef}
-          className="h-screen w-screen overflow-hidden"
+          className="h-screen w-screen overflow-hidden relative"
           style={{
             backgroundImage: `url(${backgroundImage})`,
             backgroundSize: 'cover',
@@ -167,6 +169,7 @@ function App() {
               <Route path="/universities" element={<Universities />} />
               <Route path="/universities/:universityId" element={<UniversityDetails />} />
             </Routes>
+            <ChatWidget />
       </div>
   );
 }
