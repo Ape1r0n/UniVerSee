@@ -33,19 +33,19 @@ const Home = () =>{
         </div>
 
         <div className="flex justify-center gap-8">
-  <CardLink
-    to="/universities"
-    icon={Building}
-    title="უნივერსიტეტები"
-    description="იხილეთ საქართველოს უნივერსიტეტების სრული სია"
-  />
-  <CardLink
-    to="/faculties"
-    icon={BookOpen}
-    title="ფაკულტეტები"
-    description="იხილეთ სხვადასხვა ფაკულტეტები და აკადემიური დეპარტამენტები"
-  />
-</div>
+          <CardLink
+            to="/universities"
+            icon={Building}
+            title="უნივერსიტეტები"
+            description="იხილეთ საქართველოს უნივერსიტეტების სრული სია"
+          />
+          <CardLink
+            to="/faculties"
+            icon={BookOpen}
+            title="ფაკულტეტები"
+            description="იხილეთ სხვადასხვა ფაკულტეტები და აკადემიური დეპარტამენტები"
+          />
+        </div>
       </div>
     </div>
   )
