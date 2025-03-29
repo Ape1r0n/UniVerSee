@@ -9,12 +9,15 @@ const Universities = () => {
   ];
 
   return (
-    <div className="text-white flex gap-3 justify-around flex-wrap universities-page container mx-auto px-4 relative z-10">
-      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
-      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
-      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
-      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
-      <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+    <div className='container mx-auto relative z-10'>
+      <h1 className='text-white text-6xl font-bold mt-6 mb-10'>Universities</h1>
+      <div className="text-white flex gap-3 flex-wrap universities-page container mx-auto relative z-10">
+        <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+        <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+        <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+        <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+        <FacultyCard UniName="KIU" FacultyName = "CS"></FacultyCard>
+      </div>
     </div>
   );
 };

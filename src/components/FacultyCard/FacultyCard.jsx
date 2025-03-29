@@ -15,10 +15,10 @@ export const FacultyCard = ({ UniName, FacultyName, universityId }) => {
           
           <div>
             {UniName && (
-              <h3 className="text-lg font-semibold text-gray-900 mb-1">{UniName}</h3>
+              <h3 className="text-lg font-semibold text-white">{UniName}</h3>
             )}
-            <div className="flex items-center text-gray-700">
-              <BookOpen className="h-4 w-4 mr-2 text-gray-500" />
+            <div className="flex items-center text-white">
+              <BookOpen className="h-4 w-4 mr-2 text-white-500" />
               <span className="text-base">{FacultyName}</span>
             </div>
           </div>

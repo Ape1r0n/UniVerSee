@@ -5,6 +5,7 @@ import Faculties from './pages/Faculties/Faculties';
 import Universities from './pages/Universities/Universities';
 import { useEffect, useRef } from 'react';
 import backgroundImage from './assets/bg.webp'
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   const containerRef = useRef(null);
@@ -153,6 +154,7 @@ function App() {
               zIndex: 0
             }}
           />
+            <Navbar></Navbar>
             <Router>
               <Routes>
                 <Route path="/" element={<Home />} />
