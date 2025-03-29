@@ -7,6 +7,8 @@ import { useEffect, useRef } from 'react';
 import backgroundImage from './assets/bg.webp'
 import Navbar from './components/Navbar/Navbar';
 import UniversityDetails from './pages/UniversityDetails/UniversityDetails';
+import FateForm from './pages/Fate/FateForm';
+import FateResult from './pages/Fate/FateResult';
 
 function App() {
   const containerRef = useRef(null);
@@ -17,7 +19,7 @@ function App() {
   useEffect(() => {
     const container = containerRef.current;
     const particles = [];
-    const particleCount = 30;
+    const particleCount = 60;
 
     // Create particles
     for (let i = 0; i < particleCount; i++) {
@@ -28,7 +30,7 @@ function App() {
       const size = Math.random() * 6 + 4;
       const posX = Math.random() * 100;
       const posY = Math.random() * 100;
-      const opacity = Math.random() * 0.4 + 0.1;
+      const opacity = Math.random() * 0.8 + 0.1;
       
       Object.assign(particle.style, {
         width: `${size}px`,
@@ -134,6 +136,7 @@ function App() {
       particlesRef.current.forEach(p => p.element.remove());
     };
   }, []);
+
   return (
         <div 
           ref={containerRef}
@@ -158,6 +161,8 @@ function App() {
             <Navbar></Navbar>
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/fate" element={<FateForm />} />
+              <Route path="/fate-result" element={<FateResult />} />
               <Route path="/faculties" element={<Faculties />} />
               <Route path="/universities" element={<Universities />} />
               <Route path="/universities/:universityId" element={<UniversityDetails />} />

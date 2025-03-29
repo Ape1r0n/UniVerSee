@@ -1,25 +1,24 @@
-import { useEffect, useRef } from 'react';
 import './Home.css'
-import { Search } from "lucide-react"
+import { Link } from 'react-router-dom';
+import { Search, Dice5 } from "lucide-react"
 import { Input } from "../../components/Input/Input.jsx";
 import { Button } from "../../components/Button/Button.jsx"
 import { Building, BookOpen } from "lucide-react"
 import { CardLink } from "../../components/CardLink/CardLink.jsx";
-import backgroundImage from "../../assets/bg.webp"
 
 const Home = () => {
   return (
       <div className="container mx-auto px-4 py-12 relative z-10">
         <header className="mb-12 text-center">
-          <h1 className="mb-2 text-4xl font-bold tracking-tight text-white md:text-5xl">
-            გახდი ის ვინც გინდა
+          <h1 className="mb-3 text-4xl font-bold tracking-tight text-white md:text-5xl">
+            გახდი ის, ვინც გინდა
           </h1>
           <p className="mx-auto max-w-2xl mt-4 text-lg text-gray-300">
             მოძებნეთ ასობით უნივერსიტეტი და ფაკულტეტი, რომ იპოვოთ თქვენთვის შესაბამისი მომვალის გზა.
           </p>
         </header>
 
-        <div className="mx-auto mb-16 max-w-2xl">
+        <div className="mx-auto mb-6 max-w-2xl">
           <div className="relative">
             <Input
               type="text"
@@ -31,6 +30,17 @@ const Home = () => {
               <span className="sr-only">Search</span>
             </Button>
           </div>
+        </div>
+
+        <div className="text-center">
+          <Link to="/fate">
+            <Button
+              className="px-6 mb-8 py-3  text-lg text-white cursor-pointer bg-purple-600 hover:bg-purple-700"
+              icon={<Dice5 className="h-5 w-5 mr-2" />}
+            >
+              ბედს მივენდობი?!
+            </Button>
+          </Link>
         </div>
 
         <div className="flex justify-center gap-8">
