@@ -48,8 +48,8 @@ def process_input(input_data):
 def predict(data):
     processed = process_input(data)
     return {
-        "rf_prediction": model_rf.predict(processed)[0],
-        "gb_prediction": model_gb.predict(processed)[0]
+        "Random Forest Prediction": model_rf.predict(processed)[0],
+        "Gradient Boosting Prediction": model_gb.predict(processed)[0]
     }
 
 
