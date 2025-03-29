@@ -1,8 +1,8 @@
 // src/App.jsx
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home/home';
-import Faculties from './pages/faculties/faculties';
-import Universities from './pages/universities/universities';
+import Home from './pages/Home/Home';
+import Faculties from './pages/Faculties/Faculties';
+import Universities from './pages/Universities/Universities';
 
 
 function App() {
