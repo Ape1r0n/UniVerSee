@@ -9,7 +9,7 @@ import backgroundImage from "../../assets/bg.webp"
 
 const Home = () => {
   return (
-      <div className="container mx-auto px-4 py-12 mt-17 relative z-10">
+      <div className="container mx-auto px-4 py-12 relative z-10">
         <header className="mb-12 text-center">
           <h1 className="mb-2 text-4xl font-bold tracking-tight text-white md:text-5xl">
             გახდი ის ვინც გინდა

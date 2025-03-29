@@ -6,6 +6,7 @@ import Universities from './pages/Universities/Universities';
 import { useEffect, useRef } from 'react';
 import backgroundImage from './assets/bg.webp'
 import Navbar from './components/Navbar/Navbar';
+import UniversityDetails from './pages/UniversityDetails/UniversityDetails';
 
 function App() {
   const containerRef = useRef(null);
@@ -155,13 +156,12 @@ function App() {
             }}
           />
             <Navbar></Navbar>
-            <Router>
-              <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/faculties" element={<Faculties />} />
-                <Route path="/universities" element={<Universities />} />
-              </Routes>
-            </Router>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/faculties" element={<Faculties />} />
+              <Route path="/universities" element={<Universities />} />
+              <Route path="/universities/:universityId" element={<UniversityDetails />} />
+            </Routes>
       </div>
   );
 }

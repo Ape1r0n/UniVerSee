@@ -17,16 +17,20 @@ export const FacultyCard = ({ UniName, FacultyName, universityId }) => {
             {UniName && (
               <h3 className="text-lg font-semibold text-white">{UniName}</h3>
             )}
-            <div className="flex items-center text-white">
-              <BookOpen className="h-4 w-4 mr-2 text-white-500" />
-              <span className="text-base">{FacultyName}</span>
-            </div>
+            {FacultyName ?
+                <div className="flex items-center text-white">
+                <BookOpen className="h-4 w-4 mr-2 text-white-500" />
+                <span className="text-base">{FacultyName}</span>
+                </div>
+                : 
+                <div></div>    
+        }
           </div>
         </div>
 
         <div className="mt-4 flex items-center text-sm text-gray-500">
           <MapPin className="h-4 w-4 mr-1" />
-          <span>View university details →</span>
+          <span>იხილეთ დეტალები →</span>
         </div>
       </div>
     </Link>
