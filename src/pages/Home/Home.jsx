@@ -1,6 +1,6 @@
 import { Search } from "lucide-react"
 // import { Button } from "@/components/ui/button"
-import { Input } from "../../components/Input/input.jsx";
+import { Input } from "../../components/Input/Input.jsx";
 import './Home.css'
 // import BannerCard from "@/components/banner-card"
 
