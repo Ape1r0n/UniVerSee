@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "universee2025",
+  "private_key_id": "15706b5875075506770dd1b2675f367a81f94561",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwqfO6gMXzV69N\n7baOJT5BPB4yCjKx6fzDiYv8y1d4tZnu0xYADXBFy1+89Z7JS73THDVXbioMEPIE\nh0iK1KnL0nngHkZYt4Ok6vuv/2lEvpOmzXZqV5BRV2u04hdsPihdEcuD3V8aURwv\nSFtVKI23LstF8FZgjyszX5r6HyTWqbRyC5Pe7D5xLSoCw22kASSLTe8zWROS+kw7\nXiMNBPjeipUuJUHra0JurPAS0HaIh3siCIIUMbKO5Rmn0fbNJKVZ3xop6zHARubO\nqe9KIlmQYbDNWaTwdjJUKom/Cbb2AH/dk+WxjXD+esasJqG6V8KOmb58SNY6PBgH\nUl+NhUMJAgMBAAECggEABOcWhTq9I5lvm0NJUW0NqvxK3zsiuIbElb2bta6D9Szf\nAn53qhU1ZC52b/VGDJKOSE1MWqqLPq36tW72r6mis64Z5UMZ0yz2mY1O4k29g2Oh\nj9u8WUuoTOWW7txmZ4HbF2gexIBQexe8p0BEDpszQZ3qFL0MfJ4Ehia1U5MpL87W\ncaXbY4Eh9NORqbY6DqA+M0TI7XY9aBiV1J1I4+s2OkDmAacQJKad0F1fNXPgKcFL\nmjsY8aaI3QlzIlSIMGdGuAIhgNn0bc38onRJA4kdRNkiGW0qRH06A4tm7aXnd/P2\nh70VQTue1EeDbbMqtfzhJS0TQsJo1vKb4//uFcY/YQKBgQDz8jtIAtbpcQBNjGA7\nvb1148/IJStlEq7bLZ8/726XbT9JM5BUvmxxuzjWydUslXdBOtHFl764SMh7A0RO\n1afiAzJq9xcF6Klj4/PZHKYeyRhQDb+vgf61xEMZ09dcAwfKpYKVyU1XNFJYkgQa\nVnmIlw9mn/Fe6QtYnH40J/EJMQKBgQC5ZKP8/Ec8TcNvuV4gAk2PQ5fiHt6hZhR8\nmk87V0hzmt6qvFKWuLHBm4i1jIhYZMzS+L63mFtmJz39cBArXx+0w/UjCxI0iFin\nspiaTWs5w2T5NsjWnpIozy+LE90TbhKA+FwN9CluJt4v7aR+kjMDYYipu82U5WDo\ntsG38rXhWQKBgQDnRZsWJjsBjfQvkQobGUNpZNU0dqixZgkIGjSENMawIQ6Co7QN\n44qEOG8mkqrbXch1uwHtRnO12qrWlL5Jzx0elNFTv3XAUFdnMFGaYCLNxPCb1K0K\nA0ArqynCbqgZv3W/lTI8N2BvcFcxSR1CqwEFkdE0BiabSG1NUPAFGmjVwQKBgH80\nPYys8JfA55L2Bk5CJkNhZopBEhJ9/xqLqkeWGOExZwyREL3X1id4d3HSDg9QgnVT\nNVC1mijaTh9hz8Zii1e1iLJVu1UOJH5T/X8KFcNZfSO94knYHYMgvYdYxry5LrsN\nLeRpHjA1PQh3rwElgRkVx/ZmJKXASSEDnKGBSChpAoGBAL73hE0PekbtZTXK+UXX\nZPSig6JAp59TjkMgDTtLTC13YXyhcg4/NW43HzMSlYv1Rnkru0yjGR6wNQefKmLL\nQM0/2P9FfkEiYQHV16xcswWGVOCDJL9Td263naPidl3KheNvR7MnRUYR1s9UMnis\nMQYaDGzlTALpdwqZzJjQknQe\n-----END PRIVATE KEY-----\n",
+  "client_email": "universee-service-acc@universee2025.iam.gserviceaccount.com",
+  "client_id": "110545169089037919402",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/universee-service-acc%40universee2025.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
