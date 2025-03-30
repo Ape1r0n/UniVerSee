@@ -17,7 +17,7 @@ const FateResult = () => {
         უკან დაბრუნება
       </button>
 
-      <h1 className="text-3xl font-bold mb-8 text-center">თქვენი შედეგი</h1>
+      <h1 className="text-3xl font-bold mb-8 text-white text-center">თქვენი შედეგი</h1>
       
       <div className="bg-white rounded-lg shadow-md p-6 space-y-6">
         <pre className="bg-gray-100 p-4 rounded-md overflow-x-auto">
