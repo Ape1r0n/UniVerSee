@@ -15,3 +15,6 @@ openpyxl==3.1.2
 # Utilities
 requests==2.32.3
 Flask==3.0.2
+
+#FlaskCors
+Flask-CORS==4.0.0

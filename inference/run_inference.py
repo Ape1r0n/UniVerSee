@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import numpy as np
 from flask import Flask, request, jsonify
+from flask_cors import CORS  # Import CORS
 
 
 model_rf = joblib.load("models/random_forest.joblib")
@@ -32,7 +33,7 @@ hb_mp = {
 }
 
 app = Flask(__name__)
-
+CORS(app)  # Enable CORS for all routes (default allows all origins)
 
 def process_input(input_data):
     df = pd.DataFrame([input_data])
