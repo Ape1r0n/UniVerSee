@@ -47,13 +47,16 @@ const FateForm = () => {
     console.log(formData)
     
     try {
-      const response = await fetch('http://localhost:8197/predict', {
+      const response = await fetch('https://universee-ml-predictor-789121096200.europe-north2.run.app/predict', {
         method: 'POST',
+        mode: 'cors',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify(formData),
       });
+
+      console.log(response)
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
